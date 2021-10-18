@@ -1,0 +1,15 @@
+C:\Users\Usario\source\repos\HelloWorldGUI\bin\Debug\netcoreapp3.1\HelloWorldGUI.exe
+C:\Users\Usario\source\repos\HelloWorldGUI\bin\Debug\netcoreapp3.1\HelloWorldGUI.deps.json
+C:\Users\Usario\source\repos\HelloWorldGUI\bin\Debug\netcoreapp3.1\HelloWorldGUI.runtimeconfig.json
+C:\Users\Usario\source\repos\HelloWorldGUI\bin\Debug\netcoreapp3.1\HelloWorldGUI.runtimeconfig.dev.json
+C:\Users\Usario\source\repos\HelloWorldGUI\bin\Debug\netcoreapp3.1\HelloWorldGUI.dll
+C:\Users\Usario\source\repos\HelloWorldGUI\bin\Debug\netcoreapp3.1\HelloWorldGUI.pdb
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.csprojAssemblyReference.cache
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.HelloWorldForm.resources
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.csproj.GenerateResource.cache
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.AssemblyInfoInputs.cache
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.AssemblyInfo.cs
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.csproj.CoreCompileInputs.cache
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.dll
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.pdb
+C:\Users\Usario\source\repos\HelloWorldGUI\obj\Debug\netcoreapp3.1\HelloWorldGUI.genruntimeconfig.cache
