@@ -42,14 +42,15 @@ namespace HelloWorldGUI
 			this.hwTextLabel.TabIndex = 0;
 			this.hwTextLabel.Text = "Hello, World!";
 			// 
-			// Form1
+			// HelloWorldForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(284, 261);
 			this.Controls.Add(this.hwTextLabel);
-			this.Name = "Form1";
+			this.Name = "HelloWorldForm";
 			this.Text = "Hello, World!";
+			this.Load += new System.EventHandler(this.HelloWorldForm_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 

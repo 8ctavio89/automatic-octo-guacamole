@@ -17,5 +17,9 @@ namespace HelloWorldGUI
 			InitializeComponent();
 		}
 
+		private void HelloWorldForm_Load(object sender, EventArgs e)
+		{
+			hwTextLabel.Text = "Hola, mundo!";
+		}
 	}
 }
